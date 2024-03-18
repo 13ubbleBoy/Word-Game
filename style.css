@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+}
+
+#div1{
+    margin-top: 10%;
+    text-align: center;
+}
+
+#div2{
+    display: flex;
+    justify-content: center;
+}
+
+#div2 h1{
+    padding-top: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#div2 h3{
+    font-size: 30px;
+    padding-left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    margin-left: 48.2%;
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.hide{
+    display: none;
+}
